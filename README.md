@@ -1,16 +1,16 @@
 THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES. THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.
 
-[Company], Inc.
+Somras Software Private Ltd
 
-# Indie.vc Agreement
+# Somras Seed Round Term Sheet Agreement
 
-THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP. (the “Investor”) of [Purchase Amount] (the “Purchase Amount”) on or about [date], [Company name]Inc., a [state] Corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock and the right to certain cash payments, subject to the terms set forth below.
+THIS CERTIFIES THAT in exchange for the payment by 'Rajputana Heritage Private Ltd.' (the “Investor”) of _____________ (the “Purchase Amount”) on or about 29th September 2019, Somras Software Private Ltd., an Indian private limited Corporation (the “Company”), hereby issues to the Investor the right to certain shares of the Company’s capital stock and the right to certain cash payments, subject to the terms set forth below.
 
 ## 1. Definitions
 “Basic Financial Information” means (1) annual unaudited financial statements for each fiscal year of the Company; and (2) quarterly unaudited financial statements for each fiscal quarter of the Company (except the last quarter of the Company’s fiscal year), in each case prepared in accordance with generally accepted accounting principles and practices, subject to changes resulting from normal year-end audit adjustments.
   “Capital Stock” means the capital stock of the Company, including, without limitation, the “Common Stock” and the “Preferred Stock.”
   “Change of Control” means
-  * (i) a transaction or series of related transactions in which any “person” or “group” (within the meaning of Section 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended), becomes the “beneficial owner” (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended), directly or indirectly, of more than 50% of the outstanding voting securities of the Company having the right to vote for the election of members of the Company’s board of directors,
+  * (i) a transaction or series of related transactions in which any “person” or “group” becomes the “beneficial owner”, directly or indirectly, of more than 50% of the outstanding voting securities of the Company having the right to vote for the election of members of the Company’s board of directors,
   * (ii) any reorganization, merger or consolidation of the Company, other than a transaction or series of related transactions in which the Capital Stock of the Company outstanding immediately prior to such transaction or series of related transactions represents, or is converted or exchanged into a majority of the Capital Stock of the Company or such other surviving or resulting entity or
   * (iii) a sale, lease or other disposition of all or substantially all of the assets of the Company.
 
@@ -22,7 +22,7 @@ THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP. (the “Investor
 
   “Equity Financing” means a bona fide transaction or series of transactions with the principal purpose of raising capital, pursuant to which the Company issues and sells Preferred Stock at a fixed pre-money valuation for proceeds of at least $500,000.
 
-  “Initial Public Offering” means the closing of the Company’s first firm commitment underwritten initial public offering of Common Stock pursuant to a registration statement filed under the Securities Act.
+  “Initial Public Offering” means the closing of the Company’s first firm commitment underwritten initial public offering of Common Stock pursuant to a registration statement pursuant to RBI and Indian governing laws.
 
   “Investor Conversion Share Amount” means a number equal to the Conversion Percentage multiplied by either (i) in the event of an Equity Financing, the Company Capitalization, or (ii) in the event of a Liquidity Event, the Liquidity Capitalization.
 
@@ -43,8 +43,8 @@ THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP. (the “Investor
 
 ## 4. Profit Sharing Right
   * (a) For the first calendar month ending after the third anniversary of this Agreement (i.e., calendar month beginning [month, year]) and for each calendar month thereafter, the Company shall make a payment to the Investor (the “Profit Sharing Payments”) equal to the greater of
-    * (i) ____ % of the Company’s net income for such calendar month, or
-    * (ii) ____ % of the Company’s gross revenue for such calendar month. Each monthly Profit Sharing Payment will be made no later than 30 days following the end of such calendar month.
+    * (i) 20 % of the Company’s net income for such calendar month, or
+    * (ii) 2 % of the Company’s gross revenue for such calendar month. Each monthly Profit Sharing Payment will be made no later than 30 days following the end of such calendar month.
   * (b) Net income for purposes of calculating the Profit Sharing Payments shall be calculated in accordance with generally accepted accounting principles.
   * (c) The Profit Sharing Payments will be made in addition to any Discretionary Cash Payments made pursuant to Section 3 above.
   * (d) Notwithstanding the foregoing, the Company’s obligation to make Profit Sharing Payments pursuant to this Section 4 shall terminate if prior to the third anniversary of this Agreement, Investor has received aggregate Discretionary Cash Payments pursuant to Section 3 above equal to three times (3X) the Purchase Price.
@@ -52,7 +52,7 @@ THIS CERTIFIES THAT in exchange for the payment by OATV IV, LP. (the “Investor
 
 ## 5. Participation Right
 
-  * (a) The Investor has the right of first refusal to purchase its Pro Rata Share (as defined below) of all (or any part) of any New Securities (as defined in Section 5(b) below) that the Company may from time to time issue after the date of this Agreement, provided, however, the Investor shall have no right to purchase any such New Securities if the Investor cannot demonstrate to the Company’s reasonable satisfaction that the Investor is at the time of the proposed issuance of such New Securities an “accredited investor” as such term is defined in Regulation D under the Securities Act. The Investor’s “Pro Rata Share” for purposes of this right of first refusal is the Conversion Percentage multiplied by the number of New Securities being issued by the Company.
+  * (a) The Investor has the right of first refusal to purchase its Pro Rata Share (as defined below) of all (or any part) of any New Securities (as defined in Section 5(b) below) that the Company may from time to time issue after the date of this Agreement.
   * (b) “New Securities” shall mean any Capital Stock of the Company issued in connection with an Equity Financing.
   * (c) In the event that the Company proposes to undertake an issuance of New Securities, it shall give to the Investor a written notice of its intention to issue New Securities (the “Notice”), describing the type of New Securities and the price and the general terms upon which the Company proposes to issue such New Securities given in accordance with Section 12(b). The Investor shall have ten (10) days from the date such Notice is effective, as determined pursuant to Section 12(b) based upon the manner or method of notice, to agree in writing to purchase its Pro Rata Share of such New Securities for the price and upon the general terms specified in the Notice by giving written notice to the Company and stating therein the quantity of New Securities to be purchased (not to exceed the Investor’s Pro Rata Share).
 
@@ -87,7 +87,7 @@ The Company will provide the Investor with Basic Financial Information and acces
 
 ## 10. Arbitration.
 
-  * (a) Any claim, dispute, or controversy of whatever nature arising out of or relating to this Agreement (including any other agreement(s) contemplated hereunder), including, without limitation, any action or claim based on tort, contract, or statute (including any claims of breach or violation of statutory or common law protections from discrimination, harassment and hostile working environment), or concerning the interpretation, effect, termination, validity, performance and/or breach of this Agreement (“Claim”), shall be resolved by final and binding arbitration (“Arbitration”) before a single arbitrator (“Arbitrator”) selected from and administered by JAMS, Inc. (or its successor) (the “Administrator”) in accordance with its then-existing comprehensive arbitration rules or procedures. The arbitration shall be held in San Francisco, California. BY AGREEING TO THIS BINDING ARBITRATION PROVISION, THE PARTIES UNDERSTAND THAT THEY ARE WAIVING CERTAIN RIGHTS AND PROTECTIONS WHICH MAY OTHERWISE BE AVAILABLE IF A CLAIM BETWEEN THE PARTIES WERE DETERMINED BY LITIGATION IN COURT, INCLUDING, WITHOUT LIMITATION, THE RIGHT TO SEEK OR OBTAIN CERTAIN TYPES OF DAMAGES PRECLUDED BY THIS PARAGRAPH, THE RIGHT TO A JURY TRIAL, CERTAIN RIGHTS OF APPEAL, AND A RIGHT TO INVOKE FORMAL RULES OF PROCEDURE AND EVIDENCE. The Arbitrator shall:
+  * (a) Any claim, dispute, or controversy of whatever nature arising out of or relating to this Agreement (including any other agreement(s) contemplated hereunder), including, without limitation, any action or claim based on tort, contract, or statute (including any claims of breach or violation of statutory or common law protections from discrimination, harassment and hostile working environment), or concerning the interpretation, effect, termination, validity, performance and/or breach of this Agreement (“Claim”), shall be resolved by final and binding arbitration (“Arbitration”) before a single arbitrator (“Arbitrator”) selected by Dr. Padam Singh Chouhan. The Arbitrator shall:
       * (i) have the authority to compel adequate discovery for the resolution of the dispute and to award such relief as would otherwise be available under applicable law in a court proceeding; and
       * (ii) issue a written statement signed by the Arbitrator regarding the disposition of each claim and the relief, if any, awarded as to each claim, the reasons for the award, and the Arbitrator’s essential findings and conclusions on which the award is based.
 
@@ -110,24 +110,26 @@ This instrument will expire and terminate (without relieving the Company of any 
 
 IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.
 
-##### [Company], Inc.
+##### Somras Software Pvt. Ltd.
 
-By: [name]
-Address:
-Email:
+By: Dharamveer Singh Chouhan
+Title: CEO & Director
+Address: 19-Shanti Vihar, Paanch Batti Circle, Ratanada, Jodhpur, Rajastham 342011
+Email: dv@dvcoolster.com
 
-##### INVESTOR
-By:
-Title:
+##### Rajputana Heritage Pvt. Ltd.
+
+By: Dr. Padam Singh Chouhan
+Title: Chairman
 Address:
 Email:
 
 
 ---
 
-### Signature Page to Indie.vc Agreement
+### Signature Page to Somras Seed Round Term Sheet Agreement
 
 
 ##### EXHIBIT A Conversion Percentage
 
-Conversion Percentage is equal to [percentage], provided however, if on or before the third anniversary of the date of this agreement (i.e. date +3 years) Investor has received aggregate Cash Flow Payments pursuant to Section 3 in an amount equal to three times the Purchase Amount, then as of such date the Conversion Percentage shall be equal to half [percentage].
+Conversion Percentage is equal to 10%, provided however, if on or before the third anniversary of the date of this agreement (i.e. date +3 years) Investor has received aggregate Cash Flow Payments pursuant to Section 3 in an amount equal to three times the Purchase Amount, then as of such date the Conversion Percentage shall be equal to 5%.
